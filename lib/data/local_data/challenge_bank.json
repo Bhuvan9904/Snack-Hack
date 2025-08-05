@@ -1,0 +1,530 @@
+{
+  "categories": [
+    {
+      "id": "colorful_plates",
+      "name": "Colorful Plates",
+      "emoji": "🌈",
+      "description": "Represents vibrant, multi-colored meals"
+    },
+    {
+      "id": "quick_fix_snacks",
+      "name": "Quick Fix Snacks",
+      "emoji": "⏱️",
+      "description": "Speedy, time-friendly snacks"
+    },
+    {
+      "id": "no_sugar_moments",
+      "name": "No Sugar Moments",
+      "emoji": "🚫🍬",
+      "description": "No-sugar or reduced-sugar focus"
+    },
+    {
+      "id": "creative_combos",
+      "name": "Creative Combos",
+      "emoji": "🧪",
+      "description": "Fun food experiments and flavor fusions"
+    },
+    {
+      "id": "mindful_eating",
+      "name": "Mindful Eating",
+      "emoji": "🧘‍♀️",
+      "description": "Reflective, calm, screen-free eating"
+    },
+    {
+      "id": "ingredient_spotlight",
+      "name": "Ingredient Spotlight",
+      "emoji": "🥄",
+      "description": "Focused on one star ingredient"
+    },
+    {
+      "id": "other_miscellaneous",
+      "name": "Other / Miscellaneous",
+      "emoji": "🎲",
+      "description": "Random or mixed challenges not in the above 6"
+    }
+  ],
+  "challenges": [
+    {
+      "id": "colorful_1",
+      "text": "Eat 5 different colors in one meal",
+      "category": "colorful_plates",
+      "modifiers": ["Use chopsticks", "Use only local ingredients", "Stack your snack", "Use a family recipe", "Only one color allowed"]
+    },
+    {
+      "id": "colorful_2",
+      "text": "Only red and green foods today",
+      "category": "colorful_plates",
+      "modifiers": ["Stack your snack", "Use a family recipe", "Use only local ingredients", "Include a fruit or veggie", "Add something crunchy"]
+    },
+    {
+      "id": "colorful_3",
+      "text": "Purple-themed snack",
+      "category": "colorful_plates",
+      "modifiers": ["Use a family recipe", "Use something sour", "Only one color allowed", "Must be homemade", "Stack your snack"]
+    },
+    {
+      "id": "colorful_4",
+      "text": "No white food all day",
+      "category": "colorful_plates",
+      "modifiers": ["Use chopsticks", "Use only local ingredients", "Use a family recipe", "Make it aesthetic", "Must be homemade"]
+    },
+    {
+      "id": "colorful_5",
+      "text": "Make a rainbow fruit bowl",
+      "category": "colorful_plates",
+      "modifiers": ["Eat in complete silence", "Add a fermented element", "Finish in under 10 mins", "Use something sour", "Add something crunchy"]
+    },
+    {
+      "id": "colorful_6",
+      "text": "Eat something orange and raw",
+      "category": "colorful_plates",
+      "modifiers": ["No utensils allowed", "Use something sour", "Eat in complete silence", "Use chopsticks", "Use a family recipe"]
+    },
+    {
+      "id": "colorful_7",
+      "text": "Try a yellow veggie",
+      "category": "colorful_plates",
+      "modifiers": ["Use chopsticks", "Eat outdoors", "Add a fermented element", "Use only local ingredients", "Add something crunchy"]
+    },
+    {
+      "id": "colorful_8",
+      "text": "Make a 3-color wrap",
+      "category": "colorful_plates",
+      "modifiers": ["Finish in under 10 mins", "Only one color allowed", "No utensils allowed", "Eat in complete silence", "Must be homemade"]
+    },
+    {
+      "id": "colorful_9",
+      "text": "Color your breakfast",
+      "category": "colorful_plates",
+      "modifiers": ["Must be homemade", "No utensils allowed", "Add a fermented element", "Use a family recipe", "Add something crunchy"]
+    },
+    {
+      "id": "colorful_10",
+      "text": "No brown foods today",
+      "category": "colorful_plates",
+      "modifiers": ["Add something crunchy", "Eat in complete silence", "Use chopsticks", "No utensils allowed", "Finish in under 10 mins"]
+    },
+    {
+      "id": "quick_1",
+      "text": "Make a 3-ingredient snack",
+      "category": "quick_fix_snacks",
+      "modifiers": ["Only one color allowed", "Include a fruit or veggie", "No utensils allowed", "Eat outdoors", "Use chopsticks"]
+    },
+    {
+      "id": "quick_2",
+      "text": "Snack in under 5 minutes",
+      "category": "quick_fix_snacks",
+      "modifiers": ["Use only local ingredients", "Must be homemade", "Eat in complete silence", "Make it aesthetic", "Add a fermented element"]
+    },
+    {
+      "id": "quick_3",
+      "text": "Only 1-pan snack prep",
+      "category": "quick_fix_snacks",
+      "modifiers": ["No utensils allowed", "Use a family recipe", "Use something sour", "Use chopsticks", "Only one color allowed"]
+    },
+    {
+      "id": "quick_4",
+      "text": "Only raw ingredients",
+      "category": "quick_fix_snacks",
+      "modifiers": ["Add something crunchy", "Must be homemade", "Eat in complete silence", "Use only local ingredients", "No utensils allowed"]
+    },
+    {
+      "id": "quick_5",
+      "text": "Make a snack that stacks",
+      "category": "quick_fix_snacks",
+      "modifiers": ["Use something sour", "Add something crunchy", "Must be homemade", "Use only local ingredients", "Make it aesthetic"]
+    },
+    {
+      "id": "quick_6",
+      "text": "One ingredient repeated 3 ways",
+      "category": "quick_fix_snacks",
+      "modifiers": ["Must be homemade", "Finish in under 10 mins", "Add a fermented element", "Use a family recipe", "Eat outdoors"]
+    },
+    {
+      "id": "quick_7",
+      "text": "No utensil snack",
+      "category": "quick_fix_snacks",
+      "modifiers": ["Add a fermented element", "No utensils allowed", "Use something sour", "Use chopsticks", "Make it aesthetic"]
+    },
+    {
+      "id": "quick_8",
+      "text": "Snack with a dip",
+      "category": "quick_fix_snacks",
+      "modifiers": ["Eat in complete silence", "Add something crunchy", "Use something sour", "Use a family recipe", "Add a fermented element"]
+    },
+    {
+      "id": "quick_9",
+      "text": "Make a toast creation",
+      "category": "quick_fix_snacks",
+      "modifiers": ["Add a fermented element", "Finish in under 10 mins", "No utensils allowed", "Include a fruit or veggie", "Only one color allowed"]
+    },
+    {
+      "id": "quick_10",
+      "text": "Use leftovers creatively",
+      "category": "quick_fix_snacks",
+      "modifiers": ["Make it aesthetic", "Add a fermented element", "Add something crunchy", "Finish in under 10 mins", "Must be homemade"]
+    },
+    {
+      "id": "no_sugar_1",
+      "text": "No sugar until 5PM",
+      "category": "no_sugar_moments",
+      "modifiers": ["Must be homemade", "Finish in under 10 mins", "Add a fermented element", "Use a family recipe", "Stack your snack"]
+    },
+    {
+      "id": "no_sugar_2",
+      "text": "No sweeteners all day",
+      "category": "no_sugar_moments",
+      "modifiers": ["Finish in under 10 mins", "Include a fruit or veggie", "Use a family recipe", "Add a fermented element", "Only one color allowed"]
+    },
+    {
+      "id": "no_sugar_3",
+      "text": "Eat only naturally sweet food",
+      "category": "no_sugar_moments",
+      "modifiers": ["Eat in complete silence", "No utensils allowed", "Finish in under 10 mins", "Only one color allowed", "Use a family recipe"]
+    },
+    {
+      "id": "no_sugar_4",
+      "text": "Label check: avoid hidden sugar",
+      "category": "no_sugar_moments",
+      "modifiers": ["Include a fruit or veggie", "Add something crunchy", "Must be homemade", "Finish in under 10 mins", "No utensils allowed"]
+    },
+    {
+      "id": "no_sugar_5",
+      "text": "Make a sugar-free dessert",
+      "category": "no_sugar_moments",
+      "modifiers": ["Finish in under 10 mins", "Use something sour", "Use chopsticks", "Stack your snack", "Only one color allowed"]
+    },
+    {
+      "id": "no_sugar_6",
+      "text": "Go fruit-only for snacks",
+      "category": "no_sugar_moments",
+      "modifiers": ["Must be homemade", "Use only local ingredients", "Use something sour", "Finish in under 10 mins", "Only one color allowed"]
+    },
+    {
+      "id": "no_sugar_7",
+      "text": "No packaged snacks today",
+      "category": "no_sugar_moments",
+      "modifiers": ["Include a fruit or veggie", "Use only local ingredients", "Eat in complete silence", "Add a fermented element", "Use something sour"]
+    },
+    {
+      "id": "no_sugar_8",
+      "text": "Make your own drink, no sugar",
+      "category": "no_sugar_moments",
+      "modifiers": ["Add a fermented element", "Only one color allowed", "Use chopsticks", "No utensils allowed", "Add something crunchy"]
+    },
+    {
+      "id": "no_sugar_9",
+      "text": "No added sugar challenge",
+      "category": "no_sugar_moments",
+      "modifiers": ["Eat in complete silence", "Must be homemade", "Make it aesthetic", "Use something sour", "Eat outdoors"]
+    },
+    {
+      "id": "no_sugar_10",
+      "text": "Skip dessert today",
+      "category": "no_sugar_moments",
+      "modifiers": ["Use only local ingredients", "Add something crunchy", "Add a fermented element", "Must be homemade", "Use a family recipe"]
+    },
+    {
+      "id": "creative_1",
+      "text": "Sweet + spicy snack combo",
+      "category": "creative_combos",
+      "modifiers": ["Eat in complete silence", "Only one color allowed", "Include a fruit or veggie", "Use chopsticks", "Use only local ingredients"]
+    },
+    {
+      "id": "creative_2",
+      "text": "Mix crunchy + creamy textures",
+      "category": "creative_combos",
+      "modifiers": ["Use a family recipe", "Finish in under 10 mins", "Eat in complete silence", "Use chopsticks", "Must be homemade"]
+    },
+    {
+      "id": "creative_3",
+      "text": "Add fruit to a savory item",
+      "category": "creative_combos",
+      "modifiers": ["Make it aesthetic", "Use a family recipe", "Eat outdoors", "Use something sour", "Stack your snack"]
+    },
+    {
+      "id": "creative_4",
+      "text": "Try an odd topping",
+      "category": "creative_combos",
+      "modifiers": ["Include a fruit or veggie", "No utensils allowed", "Must be homemade", "Finish in under 10 mins", "Use chopsticks"]
+    },
+    {
+      "id": "creative_5",
+      "text": "Combine 3 textures",
+      "category": "creative_combos",
+      "modifiers": ["Use a family recipe", "Add something crunchy", "Use only local ingredients", "Must be homemade", "Use chopsticks"]
+    },
+    {
+      "id": "creative_6",
+      "text": "Add a nutty crunch to anything",
+      "category": "creative_combos",
+      "modifiers": ["Must be homemade", "Use chopsticks", "Only one color allowed", "Add something crunchy", "Eat in complete silence"]
+    },
+    {
+      "id": "creative_7",
+      "text": "Try a topping on toast you've never tried",
+      "category": "creative_combos",
+      "modifiers": ["Finish in under 10 mins", "Eat in complete silence", "Use a family recipe", "No utensils allowed", "Include a fruit or veggie"]
+    },
+    {
+      "id": "creative_8",
+      "text": "Create your own fusion snack",
+      "category": "creative_combos",
+      "modifiers": ["Add something crunchy", "Stack your snack", "Add a fermented element", "Use only local ingredients", "Make it aesthetic"]
+    },
+    {
+      "id": "creative_9",
+      "text": "Put breakfast into dinner",
+      "category": "creative_combos",
+      "modifiers": ["Only one color allowed", "Stack your snack", "Eat outdoors", "Eat in complete silence", "Use something sour"]
+    },
+    {
+      "id": "creative_10",
+      "text": "Use spices from another culture",
+      "category": "creative_combos",
+      "modifiers": ["Use chopsticks", "Use a family recipe", "Use only local ingredients", "Use something sour", "No utensils allowed"]
+    },
+    {
+      "id": "mindful_1",
+      "text": "Eat without screens",
+      "category": "mindful_eating",
+      "modifiers": ["Stack your snack", "Use a family recipe", "Finish in under 10 mins", "Add a fermented element", "Must be homemade"]
+    },
+    {
+      "id": "mindful_2",
+      "text": "Chew each bite 20 times",
+      "category": "mindful_eating",
+      "modifiers": ["Only one color allowed", "Make it aesthetic", "Add a fermented element", "Add something crunchy", "Eat in complete silence"]
+    },
+    {
+      "id": "mindful_3",
+      "text": "Eat with your non-dominant hand",
+      "category": "mindful_eating",
+      "modifiers": ["Stack your snack", "Only one color allowed", "Eat outdoors", "No utensils allowed", "Add something crunchy"]
+    },
+    {
+      "id": "mindful_4",
+      "text": "Eat blindfolded (or eyes closed)",
+      "category": "mindful_eating",
+      "modifiers": ["Eat outdoors", "Use chopsticks", "Stack your snack", "Must be homemade", "Use only local ingredients"]
+    },
+    {
+      "id": "mindful_5",
+      "text": "Eat in silence",
+      "category": "mindful_eating",
+      "modifiers": ["No utensils allowed", "Use only local ingredients", "Eat outdoors", "Eat in complete silence", "Only one color allowed"]
+    },
+    {
+      "id": "mindful_6",
+      "text": "Smell your food before each bite",
+      "category": "mindful_eating",
+      "modifiers": ["Use chopsticks", "Include a fruit or veggie", "Add a fermented element", "Only one color allowed", "Finish in under 10 mins"]
+    },
+    {
+      "id": "mindful_7",
+      "text": "Take 15 minutes to eat something small",
+      "category": "mindful_eating",
+      "modifiers": ["Use a family recipe", "Add something crunchy", "No utensils allowed", "Use only local ingredients", "Eat outdoors"]
+    },
+    {
+      "id": "mindful_8",
+      "text": "Share a food gratitude photo",
+      "category": "mindful_eating",
+      "modifiers": ["Eat outdoors", "Make it aesthetic", "Stack your snack", "No utensils allowed", "Use something sour"]
+    },
+    {
+      "id": "mindful_9",
+      "text": "Eat outdoors today",
+      "category": "mindful_eating",
+      "modifiers": ["Must be homemade", "Include a fruit or veggie", "Add something crunchy", "Stack your snack", "Make it aesthetic"]
+    },
+    {
+      "id": "mindful_10",
+      "text": "Journal your food mood",
+      "category": "mindful_eating",
+      "modifiers": ["Use only local ingredients", "Include a fruit or veggie", "Eat in complete silence", "Add something crunchy", "Use something sour"]
+    },
+    {
+      "id": "ingredient_1",
+      "text": "Eat something with ginger",
+      "category": "ingredient_spotlight",
+      "modifiers": ["Use chopsticks", "Stack your snack", "Add a fermented element", "Eat in complete silence", "Eat outdoors"]
+    },
+    {
+      "id": "ingredient_2",
+      "text": "Feature leafy greens",
+      "category": "ingredient_spotlight",
+      "modifiers": ["Eat outdoors", "Use chopsticks", "Only one color allowed", "Eat in complete silence", "Add something crunchy"]
+    },
+    {
+      "id": "ingredient_3",
+      "text": "Snack with legumes",
+      "category": "ingredient_spotlight",
+      "modifiers": ["Make it aesthetic", "Stack your snack", "Add a fermented element", "Must be homemade", "Use only local ingredients"]
+    },
+    {
+      "id": "ingredient_4",
+      "text": "Highlight a spice",
+      "category": "ingredient_spotlight",
+      "modifiers": ["Add something crunchy", "Only one color allowed", "Use chopsticks", "Use a family recipe", "Eat in complete silence"]
+    },
+    {
+      "id": "ingredient_5",
+      "text": "Try a fermented food",
+      "category": "ingredient_spotlight",
+      "modifiers": ["Must be homemade", "Eat outdoors", "Use chopsticks", "Stack your snack", "Use a family recipe"]
+    },
+    {
+      "id": "ingredient_6",
+      "text": "Snack with a nut or seed",
+      "category": "ingredient_spotlight",
+      "modifiers": ["Only one color allowed", "Must be homemade", "No utensils allowed", "Eat outdoors", "Finish in under 10 mins"]
+    },
+    {
+      "id": "ingredient_7",
+      "text": "Use something pickled",
+      "category": "ingredient_spotlight",
+      "modifiers": ["Use a family recipe", "Eat outdoors", "Use only local ingredients", "Finish in under 10 mins", "Add something crunchy"]
+    },
+    {
+      "id": "ingredient_8",
+      "text": "Add garlic to your snack",
+      "category": "ingredient_spotlight",
+      "modifiers": ["Finish in under 10 mins", "Eat in complete silence", "No utensils allowed", "Stack your snack", "Use chopsticks"]
+    },
+    {
+      "id": "ingredient_9",
+      "text": "Make something with oats",
+      "category": "ingredient_spotlight",
+      "modifiers": ["Stack your snack", "Make it aesthetic", "Finish in under 10 mins", "Eat outdoors", "Use something sour"]
+    },
+    {
+      "id": "ingredient_10",
+      "text": "Use a fruit you haven't had in a while",
+      "category": "ingredient_spotlight",
+      "modifiers": ["Stack your snack", "Only one color allowed", "Use something sour", "Eat in complete silence", "Eat outdoors"]
+    }
+  ],
+  "modifiers": [
+    {
+      "id": "chopsticks",
+      "text": "Use chopsticks",
+      "points": 2,
+      "icon": "🥢"
+    },
+    {
+      "id": "blindfolded",
+      "text": "Eat blindfolded",
+      "points": 3,
+      "icon": "👁️"
+    },
+    {
+      "id": "one_hand",
+      "text": "Use only one hand",
+      "points": 2,
+      "icon": "✋"
+    },
+    {
+      "id": "non_dominant",
+      "text": "Use non-dominant hand",
+      "points": 2,
+      "icon": "🤚"
+    },
+    {
+      "id": "balance",
+      "text": "Stand on one leg",
+      "points": 3,
+      "icon": "🦵"
+    },
+    {
+      "id": "dance",
+      "text": "Do a silly dance",
+      "points": 2,
+      "icon": "💃"
+    },
+    {
+      "id": "sing",
+      "text": "Sing while eating",
+      "points": 2,
+      "icon": "🎵"
+    },
+    {
+      "id": "count",
+      "text": "Count each bite",
+      "points": 1,
+      "icon": "🔢"
+    },
+    {
+      "id": "slow",
+      "text": "Eat very slowly",
+      "points": 1,
+      "icon": "🐌"
+    },
+    {
+      "id": "fast",
+      "text": "Eat as fast as possible",
+      "points": 2,
+      "icon": "⚡"
+    },
+    {
+      "id": "silent",
+      "text": "Complete silence",
+      "points": 1,
+      "icon": "🤫"
+    },
+    {
+      "id": "grateful",
+      "text": "Think of 3 grateful things",
+      "points": 1,
+      "icon": "🙏"
+    },
+    {
+      "id": "share",
+      "text": "Share with someone",
+      "points": 2,
+      "icon": "🤝"
+    },
+    {
+      "id": "teach",
+      "text": "Teach someone",
+      "points": 3,
+      "icon": "📚"
+    },
+    {
+      "id": "new_location",
+      "text": "New location",
+      "points": 2,
+      "icon": "📍"
+    },
+    {
+      "id": "creative",
+      "text": "Make it artistic",
+      "points": 2,
+      "icon": "🎨"
+    },
+    {
+      "id": "healthy",
+      "text": "Make it healthy",
+      "points": 2,
+      "icon": "🥗"
+    },
+    {
+      "id": "colorful",
+      "text": "Use 5+ colors",
+      "points": 2,
+      "icon": "🌈"
+    },
+    {
+      "id": "minimal",
+      "text": "Use only 3 ingredients",
+      "points": 2,
+      "icon": "📦"
+    },
+    {
+      "id": "cultural",
+      "text": "Try different culture",
+      "points": 3,
+      "icon": "🌍"
+    }
+  ]
+}

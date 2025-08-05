@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "814069705040",
+    "project_id": "karunakar-7daa8",
+    "storage_bucket": "karunakar-7daa8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814069705040:android:41bd906d6b6676faa62455",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwSx0GagTQRqxypwITT8Sx3vsOmJ-IINo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814069705040:android:888d520b2c30d62da62455",
+        "android_client_info": {
+          "package_name": "com.example.snack_hack_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwSx0GagTQRqxypwITT8Sx3vsOmJ-IINo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
